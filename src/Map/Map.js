@@ -20,7 +20,7 @@ export const Map = ({
             }
         }
     },[element])
-    return (<div style={{ width: '800px', height: '800px' }}>
+    return (<div style={{ width: '100%', height: '100%' }}>
         <MapContainer
 
             style={{ width: '100%', height: '100%' }}
